@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 
-<table>
+<table broder="0">
   <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>HTML5
